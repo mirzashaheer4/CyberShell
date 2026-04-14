@@ -77,4 +77,4 @@ CyberShell follows a **Two-Tier Architecture**:
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Built with ⚡ by Shahe*
+*Built with ⚡ by Mirza Shaheer*
