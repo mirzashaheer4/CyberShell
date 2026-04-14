@@ -64,9 +64,18 @@ Special commands handled directly by the GUI:
    ```
 
 ### Running the App
+
+#### Linux / WSL
 ```bash
 python cyberpunk_shell_gui.py
 ```
+
+#### Windows (Native)
+CyberShell can run on Windows in **Mock Mode**, providing the full GUI and AI experience without the Linux C-backend.
+```powershell
+python cyberpunk_shell_gui.py
+```
+*Note: On Windows, the GUI automatically switches to `mock_advsh.py` to ensure compatibility.*
 
 ## 🏗️ Architecture
 CyberShell follows a **Two-Tier Architecture**:
