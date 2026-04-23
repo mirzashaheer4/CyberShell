@@ -41,8 +41,8 @@ Special commands handled directly by the GUI:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/xicon12/Custom_Shell.git
-   cd Custom_Shell
+   git clone https://github.com//mirzashaheer4/CyberShell.git
+   cd CyberShell
    ```
 
 2. **Build the C Shell:**
@@ -82,8 +82,18 @@ CyberShell follows a **Two-Tier Architecture**:
 1. **Low-Level Logic (C):** Manages process forking, memory, pipes, and OS kernel interaction.
 2. **Presentation Layer (Python):** A PyQt6 wrapper that communicates with the C backend via standard streams (stdin/stdout/stderr), providing AI integration and rich visuals.
 
+
+## Team Members
+
+- [Mikail Khan](https://github.com/mikailkhan/)
+- [Ali Sufyan Shah](https://github.com/alisufyans)
+- [Hasnat Aleem](https://github.com/hsnataleem)
+- [Muhammad Mustafa](https://github.com/Muhammadmustafa-786)
+
+**Regards,**
+**Mirza Shaheer**
+
 ## 📄 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Built with ⚡ by Mirza Shaheer*
